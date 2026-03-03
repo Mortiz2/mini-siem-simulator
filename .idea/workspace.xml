@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58bd6246-7f12-4199-8e40-d98c2a2fc66c" name="Changes" comment="Innitial Commit" />
+    <list default="true" id="58bd6246-7f12-4199-8e40-d98c2a2fc66c" name="Changes" comment="Innitial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/krzpro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/krzpro/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/krzpro/generator/LogGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/krzpro/generator/LogGenerator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -67,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1772557431463</updated>
       <workItem from="1772557432561" duration="499000" />
-      <workItem from="1772557934473" duration="3823000" />
+      <workItem from="1772557934473" duration="4232000" />
+      <workItem from="1772567322881" duration="2894000" />
     </task>
     <task id="LOCAL-00001" summary="Innitial Commit">
       <option name="closed" value="true" />
